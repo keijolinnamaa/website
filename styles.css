@@ -116,6 +116,13 @@ p {
   align-content: center;
 }
 
+.projects img {
+  width: 450px;
+  height: 150px;
+  border-radius: 50px;
+  vertical-align: middle;
+  align-content: center;
+}
 .about {
   text-align: center;
 }
